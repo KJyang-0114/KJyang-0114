@@ -1,5 +1,3 @@
-# Hi there 👋 
-
 ```python
 # 基本資料
 name = "KJyang"
