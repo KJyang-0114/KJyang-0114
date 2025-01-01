@@ -1,3 +1,5 @@
+# Hi there 👋 
+自我介紹一下
 ```python
 # 基本資料
 name = "KJyang"
@@ -8,9 +10,9 @@ website = "https://github.com/KJyang-0114/KJyang-website"
 ```javascript
 // 技術棧
 const skills = {
-  frontend: ['Vue 3', 'Vite', 'JavaScript', 'CSS3', 'HTML5'],
-  backend: ['Node.js', 'Express'],
-  tools: ['Git', 'VS Code', 'Font Awesome'],
+  frontend: ['Vue', 'React', 'HTML5', 'CSS3', 'JavaScript'],
+  backend: ['Node.js', 'Express', 'Python', 'Java', 'Swift'],
+  tools: ['VS Code', 'Git', 'Font Awesome', 'Xcode'],
   design: ['Vuestic UI', 'Responsive Design']
 }
 ```
