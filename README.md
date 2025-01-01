@@ -36,6 +36,6 @@ $ ls
   }
 }
 ```
-#這就別看了 沒在用github當倉庫的大聰明
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJyang-0114&show_icons=true&theme=dark)
+#這就別看了 沒在用github當倉庫的大聰明
