@@ -4,7 +4,7 @@
 # 基本資料
 name = "KJyang"
 role = "遊戲玩家 | 網站開發者"
-website = "https://github.com/KJyang-0114/KJyang-website"
+website = "https://kjyang0114.site"
 ```
 
 ```javascript
