@@ -3,7 +3,7 @@
 ```python
 # 基本資料
 name = "KJyang"
-role = "遊戲玩家 | 網站開發者"
+role = "遊戲玩家 | 全棧開發者"
 website = "https://kjyang0114.site"
 ```
 
