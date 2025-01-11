@@ -32,7 +32,7 @@ $ ls
   "social_media": {
     "github": "KJyang-0114",
     "instagram": "@kjyang_0114",
-    "discord": "https://discord.gg/sZbn6Dw3Bx"
+    "discord": "kjyang"
   }
 }
 ```
