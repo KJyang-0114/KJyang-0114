@@ -12,7 +12,7 @@ website = "https://kjyang0114.site"
 const skills = {
   frontend: ['Vue', 'React', 'HTML5', 'CSS3', 'JavaScript'],
   backend: ['Node.js', 'Express', 'Python', 'Java', 'Swift'],
-  tools: ['VS Code', 'Git', 'Font Awesome', 'Xcode'],
+  tools: ['VS Code', 'Git', 'Cursor', 'Xcode'],
   design: ['Vuestic UI', 'Responsive Design']
 }
 ```
