@@ -2,7 +2,7 @@
 自我介紹一下
 ```python
 # 基本資料
-name = "KJyang"
+name = "KJyang_"
 role = "遊戲玩家 | 全棧開發者"
 website = "https://kjyang0114.site"
 ```
