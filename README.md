@@ -3,7 +3,7 @@
 # 基本資料
 name = "KJyang_"
 role = "遊戲玩家 | 全棧開發者"
-website = "https://kjyang0114.site"
+website = "https://kjyang0114.dev"
 ```
 
 ```javascript
